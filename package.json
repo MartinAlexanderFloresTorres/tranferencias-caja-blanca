@@ -1,0 +1,23 @@
+{
+  "name": "caja_blanca",
+  "version": "1.0.0",
+  "description": "Prueba de caja blanca ejemplo de calcular una taria de tranferencia bancaria",
+  "main": "./src/index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "JEST",
+    "&",
+    "NODE"
+  ],
+  "author": "Martin Alexander Flores Torres",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
