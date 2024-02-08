@@ -38,6 +38,8 @@ describe('calcularTarifaTransferencia', () => {
   });
 });
 ```
+## Requerimientos
+``NODEJS:`` https://nodejs.org/en
 
 ## Instalar las dependencias del programa
 
