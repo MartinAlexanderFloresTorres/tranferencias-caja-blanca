@@ -39,11 +39,11 @@ describe('calcularTarifaTransferencia', () => {
 });
 ```
 
-# Instalar las dependencias del programa
+## Instalar las dependencias del programa
 
 ``npm install`` o ``npm i``:
 
-# Ejecutar los test
+## Ejecutar los test
 
 ``npm run test``:
 
