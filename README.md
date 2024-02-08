@@ -9,7 +9,7 @@ Para abordar este problema, puedes crear una función en JavaScript llamada calc
 entrada el monto de la transferencia, el tipo de cuenta del usuario y el tipo de transacción (interna o externa)
 y devuelva la tarifa total de la transferencia.
 
-```
+```javascript
 const { calcularTarifaTransferencia, TIPO_TRANSACCION, TIPO_CUENTA } = require('../index');
 
 describe('calcularTarifaTransferencia', () => {
